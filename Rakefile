@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "fluent-plugin-couchbase"
   gem.homepage = "http://github.com/obieq/fluent-plugin-couchbase"
   gem.license = "MIT"
-  gem.summary = %Q{Fluent output plugin for Couchbase}
-  gem.description = %Q{Fluent output plugin for Couchbase via the waz-storage gem}
+  gem.summary = %Q{Fluent output plugin for Couchbase 2.0}
+  gem.description = %Q{Fluent output plugin for Couchbase 2.0}
   gem.email = "quelland@gmail.com"
   gem.authors = ["obie quelland"]
   # dependencies defined in Gemfile
