@@ -1,4 +1,4 @@
-# Couchbase 2.0 plugin for Fluentd
+# Couchbase 2.0 plugin for [Fluentd](http://fluentd.org)
 
 Couchbase 2.0 output plugin for Fluentd.
 
